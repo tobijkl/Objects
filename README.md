@@ -2,4 +2,4 @@
 
 ## malm_towel_hook.stl
 
-Hook for mounting a 12mm alumium rod in front of my malm dresser to dry a towel. Created with Fusion 360.
+Hook for mounting a 12mm alumium rod in front of my MALM dresser to dry a towel. Created with Fusion 360.
